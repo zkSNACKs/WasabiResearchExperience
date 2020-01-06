@@ -1,11 +1,17 @@
 # Wasabi Research Club
 
-Hangouts Link: https://hangouts.google.com/call/CQ1iuILE1j2js95DzgrzAEEE  
-Discussions are recorded, likely published.  
-Anyone is free to join the discussions, however being familiar with the topic is recommended.  
-5-15 minutes presentations on the topic are welcomed.
+- Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
+- Hangouts Link: https://hangouts.google.com/call/CQ1iuILE1j2js95DzgrzAEEE  
+- Discussions are recorded, likely published.  
+- Anyone is free to join the discussions, however being familiar with the topic is recommended.  
+- 5-15 minutes presentations on the topic are welcomed.
 
-## 2020-01-06 20:00 UTC - Discussion on Knapsack
+## 2020-01-13 20:00 UTC - SNICKER
 
-Topic: Anonymous CoinJoin Transactions with Arbitrary Values - https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf
+Topic: Snicker - https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d79
+
+## 2020-01-06 20:00 UTC - Knapsack Mixing
+
+- Topic: Anonymous CoinJoin Transactions with Arbitrary Values - https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf
+- Notes: https://github.com/zkSNACKs/WasabiResearchClub/blob/master/Episode%201%20-%20Knapsack%20Mixing.md
 
