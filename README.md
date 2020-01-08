@@ -8,7 +8,7 @@
 
 ## 2020-01-13 20:00 UTC - SNICKER
 
-Topic: Snicker - https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d79
+Topic: SNICKER - https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d79
 
 ## 2020-01-06 20:00 UTC - Knapsack Mixing
 
