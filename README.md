@@ -8,7 +8,8 @@
 
 ## 2020-01-20 20:00 UTC - CoinShuffle
 
-Topic: CoinShuffle - https://petsymposium.org/2014/papers/Ruffing.pdf
+- Topic: CoinShuffle - https://petsymposium.org/2014/papers/Ruffing.pdf
+- Important: CoinShuffle++ is outside the scope of this session, this session is about CoinShuffle, the first paper.
 
 ## 2020-01-13 20:00 UTC - SNICKER
 
