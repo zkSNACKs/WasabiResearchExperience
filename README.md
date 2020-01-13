@@ -6,6 +6,10 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-01-20 20:00 UTC - CoinShuffle
+
+Topic: CoinShuffle - https://petsymposium.org/2014/papers/Ruffing.pdf
+
 ## 2020-01-13 20:00 UTC - SNICKER
 
 Topic: SNICKER - https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d79
