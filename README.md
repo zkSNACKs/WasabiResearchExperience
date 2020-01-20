@@ -6,6 +6,10 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-01-27 20:00 UTC - Dining Cryptographers
+
+- Topic: Dining Cryptographer Networks - http://homepages.herts.ac.uk/~comqjs1/Dining.pdf
+
 ## 2020-01-20 20:00 UTC - CoinShuffle
 
 - Topic: CoinShuffle - https://petsymposium.org/2014/papers/Ruffing.pdf
