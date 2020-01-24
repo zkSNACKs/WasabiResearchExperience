@@ -9,6 +9,7 @@
 ## 2020-01-27 20:00 UTC - Dining Cryptographers
 
 - Topic: Dining Cryptographer Networks - http://homepages.herts.ac.uk/~comqjs1/Dining.pdf
+- Orginal Paper: http://www.cs.cornell.edu/people/egs/herbivore/dcnets.html (Chaum, 1988)
 
 ## 2020-01-20 20:00 UTC - CoinShuffle
 
