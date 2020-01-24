@@ -1,0 +1,14 @@
+---
+layout: default
+title: Posts
+---
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} @ {{
+        post.date | date: "%H:%M" }} UTC</span>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+    </li>
+  {% endfor %}
+</ul>
