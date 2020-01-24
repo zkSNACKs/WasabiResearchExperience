@@ -7,4 +7,4 @@
 - Code: nopara73 - https://github.com/nopara73/CoinJoinAnalysis
 - Bug: There is an off by one bug in the paper: https://twitter.com/nopara73/status/1213948832859508743
 - Article: https://medium.com/@nopara73/knapsack-mixing-6a5b1ac95c33
-- Presentation Slides: Aviv Milner - https://github.com/zkSNACKs/WasabiResearchClub/blob/master/Knapsack%20CoinJoin.pptx
+- Presentation Slides: Aviv Milner - https://github.com/zkSNACKs/WasabiResearchClub/blob/master/Powerpoint%20Presentations/Knapsack%20CoinJoin.pptx
