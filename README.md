@@ -23,4 +23,5 @@ Topic: SNICKER - https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d7
 
 - Topic: Anonymous CoinJoin Transactions with Arbitrary Values - https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf
 - Notes: https://github.com/zkSNACKs/WasabiResearchClub/blob/master/Episode%201%20-%20Knapsack%20Mixing.md
+- Slides: https://github.com/zkSNACKs/WasabiResearchClub/blob/master/Powerpoint%20Presentations/Knapsack%20CoinJoin.pptx
 
