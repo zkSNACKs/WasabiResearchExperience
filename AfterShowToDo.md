@@ -1,0 +1,6 @@
+- [ ] Upload recording to YouTube
+- [ ] Update README.md with next session (Example: https://github.com/zkSNACKs/WasabiResearchClub/commit/c3903548c0b5f635229fc9c92c39f2b38bbb02a3)
+- [ ] Update the website with next session (Example: https://github.com/wbnns/WasabiResearchClub/commit/436f2d46d16efd1fb2a01b290c1007fd5d47512f)
+- [ ] Send out emails to the authors of the next paper.
+- [ ] Tweet
+- [ ] Submit to Reddit
