@@ -4,10 +4,11 @@ title:  "CoinShuffle"
 date:   2020-01-20 20:00 -0000
 ---
 
-### _[Watch Replay](https://www.youtube.com/watch?v=dVZDeEfSdcI&list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF&index=4&t=0s)_
+## Replay
 
-### Time: 20:00 UTC
-### Location: [Hangouts](https://hangouts.google.com/call/CQ1iuILE1j2js95DzgrzAEEE)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dVZDeEfSdcI"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
 
 __Note:__ CoinShuffle++ is outside the scope of this session, this session is
 about CoinShuffle, the first paper.

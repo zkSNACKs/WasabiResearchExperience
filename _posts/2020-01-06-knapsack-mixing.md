@@ -4,11 +4,11 @@ title:  "Knapsack Mixing"
 date:   2020-01-06 20:00 -0000
 ---
 
-### _[Watch Replay](https://www.youtube.com/watch?v=XDCQI7hrB58&list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF&index=2&t=0s)_
+## Replay
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XDCQI7hrB58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Guest: Felix Konstantin Maurer
-### Time: 20:00 UTC
-### Location: [Hangouts](https://hangouts.google.com/call/CQ1iuILE1j2js95DzgrzAEEE)
 
 + Code: [Felix Konstantin Maurer](https://gitlab.com/maufl/cja/)
 + Code: [Lucas Ontivero](https://github.com/lontivero/Knapsack/)
