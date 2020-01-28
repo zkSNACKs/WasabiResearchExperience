@@ -10,14 +10,35 @@ title: Home
     <li>Anyone is free to join the discussions, however, being familiar with the topic is recommended.</li>
     <li>5-15 minutes presentations on the topic are welcomed.</li>
   </ul>
-  <h2>Meetings</h2>
+
+  <h1>Upcoming</h1>
   <ul class="post-list">
+    {% assign curDate = site.time | date: '%s' %}
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b
-            %-d, %Y" }} @ {{ post.date | date: "%H:%M" }} UTC</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
+      {% assign postStartDate = post.date | date: '%s' %}
+      {% if postStartDate >= curDate %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b
+              %-d, %Y" }} @ {{ post.date | date: "%H:%M" }} UTC</span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
-</div>
+
+  <h2>Past</h2>
+  <ul class="post-list">
+    {% assign curDate = site.time | date: '%s' %}
+    {% for post in site.posts %}
+      {% assign postStartDate = post.date | date: '%s' %}
+      {% if postStartDate <= curDate %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} @ {{
+              post.date | date: "%H:%M" }} UTC</span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  </div>
