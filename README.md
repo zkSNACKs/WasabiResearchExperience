@@ -14,6 +14,7 @@
 
 - Topic: Dining Cryptographer Networks - http://homepages.herts.ac.uk/~comqjs1/Dining.pdf
 - Original Paper: http://www.cs.cornell.edu/people/egs/herbivore/dcnets.html (Chaum, 1988)
+- Slides: https://wasabiresearch.org/assets/dining_cryptographers_networks.pptx
 
 ## 2020-01-20 20:00 UTC - CoinShuffle
 
