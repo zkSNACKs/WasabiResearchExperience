@@ -10,9 +10,9 @@ title: Home
     <li>Anyone is free to join the discussions, however, being familiar with the topic is recommended.</li>
     <li>5-15 minutes presentations on the topic are welcomed.</li>
   </ul>
-  <h3>Upcoming / Most Recent</h3>
+  <h2>Meetings</h2>
   <ul class="post-list">
-    {% for post in site.posts limit:1 %}
+    {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b
             %-d, %Y" }} @ {{ post.date | date: "%H:%M" }} UTC</span>
@@ -21,15 +21,3 @@ title: Home
     {% endfor %}
   </ul>
 </div>
-
-<h3>Past</h3>
-
-<ul class="post-list">
-  {% for post in site.posts offset:1 %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} @ {{
-          post.date | date: "%H:%M" }} UTC</span>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
