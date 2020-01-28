@@ -14,3 +14,4 @@ picture-in-picture" allowfullscreen></iframe>
 
 + [Dining Cryptographer Networks](http://homepages.herts.ac.uk/~comqjs1/Dining.pdf)
 + [Original Paper](http://www.cs.cornell.edu/people/egs/herbivore/dcnets.html) (Chaum, 1988)
++ [Slides](https://wasabiresearch.org/assets/dining_cryptographers_networks.pptx)
