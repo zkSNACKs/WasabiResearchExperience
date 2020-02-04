@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CoinShuffle++"
+title:  "CoinShuffle++ (Part 1)"
 date:   2020-02-03 20:00 -0000
 ---
 
