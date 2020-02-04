@@ -14,6 +14,7 @@
 ## 2020-02-03 20:00 UTC - CoinShuffle++ (part 1)
 
 - Topic: CoinShuffle++ - https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss201701-4RuffingPaper.pdf
+- Slides: https://wasabiresearch.org/assets/coinshuffle++.pptx
 
 ## 2020-01-27 20:00 UTC - Dining Cryptographers
 
