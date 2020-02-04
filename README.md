@@ -6,7 +6,12 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
-## 2020-02-03 20:00 UTC - CoinShuffle++
+## 2020-02-10 20:00 UTC - CoinShuffle++ (part 2)
+
+- Topic: CoinShuffle++ - https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss201701-4RuffingPaper.pdf
+- Special Guest: Tim Ruffing
+
+## 2020-02-03 20:00 UTC - CoinShuffle++ (part 1)
 
 - Topic: CoinShuffle++ - https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss201701-4RuffingPaper.pdf
 
