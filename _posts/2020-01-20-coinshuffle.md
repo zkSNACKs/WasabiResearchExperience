@@ -17,3 +17,4 @@ about CoinShuffle, the first paper.
 
 + [CoinShuffle: Practical Decentralized Coin Mixing for Bitcoin](https://petsymposium.org/2014/papers/Ruffing.pdf)
 + [Presentation Slides](/assets/coinshuffle.pptx)
++ [Presentation Slides PDF](/assets/coinshuffle_ppt.pdf)
