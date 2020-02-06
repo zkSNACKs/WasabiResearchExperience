@@ -21,3 +21,4 @@ __Note:__ There is [an off by one bug](https://twitter.com/nopara73/status/12139
 + [Anonymous CoinJoin Transactions with Arbitrary Values](https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf)
 + [Knapsack Mixing](https://medium.com/@nopara73/knapsack-mixing-6a5b1ac95c33)
 + [Presentation Slides](/assets/knapsack_coinjoin.pptx)
++ [Presentation Slides PDF](/assets/knapsack_coinJoin_ppt.pdf)
