@@ -13,5 +13,5 @@ picture-in-picture" allowfullscreen></iframe>
 ## Resources
 
 + [CoinShuffle++](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss201701-4RuffingPaper.pdf)
-+ [Slides](https://wasabiresearch.org/assets/Coinshuffle++.pptx)
-
++ [Slides](https://wasabiresearch.org/assets/coinshuffle++.pptx)
++ [Slides PDF](https://wasabiresearch.org/assets//coinshuffle++_ppt.pdf.pptx)
