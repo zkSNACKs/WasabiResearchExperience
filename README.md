@@ -2,10 +2,7 @@
 
 - Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
 - Hangouts Link: https://hangouts.google.com/call/CQ1iuILE1j2js95DzgrzAEEE  
-- Backup Link and Additional Information to Join:
-- To join the video meeting, click this link: https://meet.google.com/qnp-yrha-ppu
-- Otherwise, to join by phone, dial +1 289-323-5374 and enter this PIN: 280 783 254#
-- To view more phone numbers, click this link: https://tel.meet/qnp-yrha-ppu?hl=en&hs=5
+- Backup Link: https://hangouts.google.com/call/JOwCBnUEZ9ePMvXtnXkbAEEE
 - Discussions are recorded, likely published.
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
