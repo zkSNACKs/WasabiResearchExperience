@@ -11,6 +11,7 @@
 
 - Topic: CoinShuffle++ - https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss201701-4RuffingPaper.pdf
 - Special Guest: Tim Ruffing
+- Slides (in PDF): https://wasabiresearch.org/assets/coinshuffle++_explained_ruffing_ppt.pdf
 
 ## 2020-02-03 20:00 UTC - CoinShuffle++ (part 1)
 
