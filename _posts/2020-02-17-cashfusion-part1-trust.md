@@ -4,10 +4,6 @@ title:  "CashFusion Part 1 - Trust"
 date:   2020-02-17 20:00 -0000
 ---
 
-## Replay
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCZFAqB3bnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Resources
 
 + [CashFusion - Trust](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md)
