@@ -7,6 +7,14 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-02-17 20:00 UTC - CashFusion Part 2 - Privacy Analysis of Naive CoinJoins
+
+- CashFusion/Avoiding Amount Linkages Through Combinatorics: https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md#avoiding-amount-linkages-through-combinatorics
+- Jonald Fyookball: Analyzing the Combinatoric Math in CashFusion - https://read.cash/@jonald_fyookball/analyzing-the-combinatoric-math-in-cashfusion-29943fb7
+- James Waugh: Is CashFusion Really Anonymous? - https://medium.com/@james.waugh28/is-cashfusion-really-anonymous-352164a071c2
+- bitcoin-dev mailing list: Non-equal value CoinJoins. (last thread) - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/thread.html
+- Twitted Discussion - https://twitter.com/nopara73/status/1210617257086337024
+
 ## 2020-02-17 20:00 UTC - CashFusion Part 1 - Trust
 
 - Topic: CashFusion - Trust - https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md
