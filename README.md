@@ -12,6 +12,7 @@
 - CashFusion/Avoiding Amount Linkages Through Combinatorics: https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md#avoiding-amount-linkages-through-combinatorics
 - Jonald Fyookball: Analyzing the Combinatoric Math in CashFusion - https://read.cash/@jonald_fyookball/analyzing-the-combinatoric-math-in-cashfusion-29943fb7
 - James Waugh: Is CashFusion Really Anonymous? - https://medium.com/@james.waugh28/is-cashfusion-really-anonymous-352164a071c2
+- Mark Lundeberg: Cash Fusion (mini) simulator- https://old.reddit.com/r/btc/comments/cuo3hi/cash_fusion_mini_simulator/exzu9eh/
 - Aaron van Wirdum: Do CoinJoins Really Require Equal Transaction Amounts for Privacy? Part One: CashFusion - https://bitcoinmagazine.com/articles/do-coinjoins-really-require-equal-transaction-amounts-for-privacy-part-one-cashfusion
 - bitcoin-dev mailing list: Non-equal value CoinJoins. (last thread) - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/thread.html
 - Twitted Discussion - https://twitter.com/nopara73/status/1210617257086337024
