@@ -14,6 +14,7 @@
 - James Waugh: Is CashFusion Really Anonymous? - https://medium.com/@james.waugh28/is-cashfusion-really-anonymous-352164a071c2
 - bitcoin-dev mailing list: Non-equal value CoinJoins. (last thread) - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/thread.html
 - Twitted Discussion - https://twitter.com/nopara73/status/1210617257086337024
+- Combinatorics Simulation Code in Python https://gist.github.com/fyookball/0b79a56b484063ac25d1ccaf22894dbb
 
 ## 2020-02-17 20:00 UTC - CashFusion Part 1 - Trust
 
