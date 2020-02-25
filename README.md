@@ -7,6 +7,10 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-03-03 20:00 UTC - Anonymity loves company: Usability and the network effect
+
+Topic: Anonymity loves company: Usability and the network effect https://www.researchgate.net/publication/228348285_Anonymity_loves_company_Usability_and_the_network_effect
+
 ## 2020-02-24 20:00 UTC - CashFusion Part 2 - Combinatorics and Naive CoinJoins
 
 - CashFusion/Avoiding Amount Linkages Through Combinatorics: https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md#avoiding-amount-linkages-through-combinatorics
