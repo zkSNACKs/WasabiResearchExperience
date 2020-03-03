@@ -7,6 +7,10 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-03-09 20:00 UTC - CoinJoin Sudoku
+
+Topic: CoinJoin Sudoku https://www.coinjoinsudoku.com/advisory/
+
 ## 2020-03-03 20:00 UTC - Anonymity loves company
 
 Topic: Anonymity loves company: Usability and the network effect https://www.researchgate.net/publication/228348285_Anonymity_loves_company_Usability_and_the_network_effect
