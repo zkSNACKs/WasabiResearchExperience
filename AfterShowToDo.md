@@ -1,5 +1,6 @@
-- [ ] Upload recording to YouTube
-- [ ] Update README.md with next session
+- [ ] Upload recording to YouTube.
+- [ ] Update README.md with next session.
 - [ ] Send out emails to the authors of the next paper.
-- [ ] Tweet
-- [ ] Submit to Reddit
+- [ ] Tweet.
+- [ ] Submit to Reddit.
+- [ ] Send the recording to the authors of the current paper.
