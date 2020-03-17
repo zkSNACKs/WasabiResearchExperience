@@ -7,6 +7,10 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-03-23 20:00 UTC - Why I’m Not an Entropist
+
+Topic: Why I’m Not an Entropist https://www.freehaven.net/anonbib/cache/entropist.pdf
+
 ## 2020-03-16 20:00 UTC - Boltzmann
 
 Topic: Boltzmann https://github.com/Samourai-Wallet/boltzmann
