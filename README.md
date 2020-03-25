@@ -7,6 +7,11 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-03-30 20:00 UTC - Loopix (Nym)
+
+- Topic: Loopix https://www.freehaven.net/anonbib/cache/loopix2017.pdf
+- Implementation: Nym https://nymtech.net/docs/
+
 ## 2020-03-23 20:00 UTC - Why I’m Not an Entropist
 
 Topic: Why I’m Not an Entropist https://www.freehaven.net/anonbib/cache/entropist.pdf
