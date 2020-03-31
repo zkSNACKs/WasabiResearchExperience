@@ -7,6 +7,10 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-04-06 18:00 UTC - ZeroLink
+
+- Topic: ZeroLink https://github.com/nopara73/ZeroLink/
+
 ## 2020-03-30 20:00 UTC - Loopix (Nym)
 
 - Topic: Loopix https://www.freehaven.net/anonbib/cache/loopix2017.pdf
