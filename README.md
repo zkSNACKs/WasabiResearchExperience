@@ -7,6 +7,10 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-04-13 18:00 UTC - Anonymous Credentials
+
+- Topic: Anonymous Credentials Light https://eprint.iacr.org/2012/298.pdf
+
 ## 2020-04-06 18:00 UTC - ZeroLink
 
 - Topic: ZeroLink https://github.com/nopara73/ZeroLink/
