@@ -7,6 +7,11 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-04-20 18:00 UTC - Trustless Arbitrary CoinJoins
+
+- Topic: Trustless Arbitrary CoinJoins https://github.com/nopara73/Yohohoho/issues/5
+- Note: This protocol is still in its early phases.
+
 ## 2020-04-13 18:00 UTC - Anonymous Credentials
 
 - Topic: Anonymous Credentials Light https://eprint.iacr.org/2012/298.pdf
