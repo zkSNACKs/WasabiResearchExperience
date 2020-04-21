@@ -7,9 +7,13 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
-## 2020-04-20 18:00 UTC - Trustless Arbitrary CoinJoins
+## 2020-04-27 18:00 UTC - WabiSabi: Confidential CoinJoin Construction - Protocol ACL
 
-- Topic: Trustless Arbitrary CoinJoins https://github.com/nopara73/Yohohoho/issues/5
+- Topic: https://github.com/zkSNACKs/WabiSabi/issues/16
+
+## 2020-04-20 18:00 UTC - WabiSabi: Confidential CoinJoin Construction - Protocol BLS
+
+- Topic: https://github.com/nopara73/Yohohoho/issues/5
 - Note: This protocol is still in its early phases.
 
 ## 2020-04-13 18:00 UTC - Anonymous Credentials
