@@ -14,7 +14,6 @@
 ## 2020-04-20 18:00 UTC - WabiSabi: Confidential CoinJoin Construction - Protocol BLS
 
 - Topic: https://github.com/nopara73/Yohohoho/issues/5
-- Note: This protocol is still in its early phases.
 
 ## 2020-04-13 18:00 UTC - Anonymous Credentials
 
