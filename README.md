@@ -7,6 +7,10 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
+## 2020-05-04 18:00 UTC - WabiSabi: Confidential CoinJoin Construction - Protocol KVAC
+
+- Topic: https://github.com/zkSNACKs/WabiSabi/issues/17
+
 ## 2020-04-27 18:00 UTC - WabiSabi: Confidential CoinJoin Construction - Protocol ACL
 
 - Topic: https://github.com/zkSNACKs/WabiSabi/issues/16
