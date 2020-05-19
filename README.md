@@ -7,7 +7,9 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
-## 2020-05-18 18:00 UTC - TBD - Maybe Rewind?
+## 2020-05-25 18:00 UTC - TBD
+
+## 2020-05-18 18:00 UTC - Casual Discussion, Recording Not Available
 
 ## 2020-05-04 18:00 UTC - WabiSabi: Confidential CoinJoin Construction - Protocol KVAC
 
