@@ -7,7 +7,12 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
-## 2020-06-01 18:00 UTC - Coinswaps Introduction Casual Discussion, Recording Not Available
+## 2020-06-15 18:00 UTC - CoinSwaps? Aviv?
+
+- https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964 (Belcher, 2020)
+- https://bitcointalk.org/index.php?topic=321228.0 (Maxwell, 2013)
+
+## 2020-06-08 18:00 UTC - Coinswaps Introduction Casual Discussion, Recording Not Available
 - Topic: An Introduction in to Coinswaps
 - https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964 (Belcher, 2020)
 - https://bitcointalk.org/index.php?topic=321228.0 (Maxwell, 2013)
