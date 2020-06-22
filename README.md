@@ -7,9 +7,9 @@
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
 
-## 2020-06-22 18:00 UTC - CoinSwaps Part 2 - Chris Belcher, 2020
-Topic: We continue to look at CoinSwaps and delve into the edge cases and complexities.
-- https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964 (Belcher, 2020)
+
+
+## 2020-06-22 18:00 UTC - Casual Discussion, Recording Not Available
 
 ## 2020-06-15 18:00 UTC - CoinSwaps Part 1 - Chris Belcher, 2020
 Topic: An in-depth look into the work of Chris Belcher in his recent implementation of Coinswaps.
