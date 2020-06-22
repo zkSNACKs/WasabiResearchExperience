@@ -106,8 +106,8 @@ Topic: Anonymity loves company: Usability and the network effect https://www.res
 
 - Topic: CoinShuffle - https://petsymposium.org/2014/papers/Ruffing.pdf
 - Important: CoinShuffle++ is outside the scope of this session, this session is about CoinShuffle, the first paper.
-- Slides: https://wasabiresearch.org/assets/coinshuffle.pptx
-- Slides (in PDF): https://wasabiresearch.org/assets/coinshuffle_ppt.pdf
+- Slides: https://github.com/zkSNACKs/WasabiResearchClub/blob/master/assets/Coinshuffle%2B%2B.pptx
+- Slides (in PDF): https://github.com/zkSNACKs/WasabiResearchClub/blob/master/assets/coinshuffle%2B%2B_explained_ruffing_ppt.pdf
 
 ## 2020-01-13 20:00 UTC - SNICKER
 
