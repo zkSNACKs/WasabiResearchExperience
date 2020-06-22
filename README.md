@@ -112,9 +112,8 @@ Topic: Anonymity loves company: Usability and the network effect https://www.res
 ## 2020-01-13 20:00 UTC - SNICKER
 
 - Topic: SNICKER - https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d79
-- Slides: https://wasabiresearch.org/assets/snicker.pptx
-- Slides (in PDF): https://wasabiresearch.org/assets/snicker_ppt.pdf
-
+- Slides: https://github.com/zkSNACKs/WasabiResearchClub/blob/master/assets/snicker.pptx
+- Slides (in PDF): ToDo
 ## 2020-01-06 20:00 UTC - Knapsack Mixing
 
 - Topic: Anonymous CoinJoin Transactions with Arbitrary Values - https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf
