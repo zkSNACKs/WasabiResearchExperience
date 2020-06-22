@@ -118,6 +118,6 @@ Topic: Anonymity loves company: Usability and the network effect https://www.res
 ## 2020-01-06 20:00 UTC - Knapsack Mixing
 
 - Topic: Anonymous CoinJoin Transactions with Arbitrary Values - https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf
-- Notes: https://wasabiresearch.org/2020/01/06/knapsack-mixing.html
-- Slides: https://wasabiresearch.org/assets/knapsack_coinjoin.pptx
-- Slides (in PDF): https://wasabiresearch.org/assets/knapsack_coinjoin_ppt.pdf
+- Notes: https://github.com/zkSNACKs/WasabiResearchClub/blob/master/assets/knapsack_mixing.md
+- Slides: https://github.com/zkSNACKs/WasabiResearchClub/blob/master/assets/knapsack_coinjoin.pptx
+- Slides (in PDF): https://github.com/zkSNACKs/WasabiResearchClub/blob/master/assets/knapsack_coinjoin.pptx
