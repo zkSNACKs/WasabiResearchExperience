@@ -1,8 +1,7 @@
 # Wasabi Research Club
 
 - Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
-- Hangouts Link: https://hangouts.google.com/call/CQ1iuILE1j2js95DzgrzAEEE  
-- Backup Link: https://hangouts.google.com/call/JOwCBnUEZ9ePMvXtnXkbAEEE
+- Hangouts Link: https://meet.fulmo.org/wasabiresearch
 - Discussions are recorded, likely published.
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 - 5-15 minutes presentations on the topic are welcomed.
