@@ -1,10 +1,11 @@
 # Wasabi Research Club
 
 - Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
-- Hangouts Link: https://meet.fulmo.org/wasabiresearch
-- Discussions are recorded, likely published.
+- Meeting Link (yes, it's public, because people are inherently good): https://meet.fulmo.org/wasabiresearch
+- Discussions are recorded, often published.
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
-- 5-15 minutes presentations on the topic are welcomed.
+
+## 2020-07-06 18:00 UTC - Casual Discussion, Recording Not Available
 
 ## 2020-06-29 18:00 UTC - Casual Discussion, Recording Not Available
 
