@@ -5,6 +5,10 @@
 - Discussions are recorded, often published.
 - Anyone is free to join the discussions, however being familiar with the topic is recommended.  
 
+## 2020-07-13 18:00 UTC - k-Anonymity
+
+Topic: Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression - https://dataprivacylab.org/dataprivacy/projects/kanonymity/paper3.pdf
+
 ## 2020-07-06 18:00 UTC - Casual Discussion, Recording Not Available
 
 ## 2020-06-29 18:00 UTC - Casual Discussion, Recording Not Available
