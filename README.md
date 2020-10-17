@@ -1,19 +1,13 @@
 # Wasabi Research Club
 
 - Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
-- Meeting Link (yes, it's public, because people are inherently good): https://meet.fulmo.org/wasabiresearch
-- Discussions are recorded, often published.
-- Anyone is free to join the discussions, however being familiar with the topic is recommended.  
+- When? Every Monday 18:00 UTC
+- Where? https://meet.fulmo.org/wasabiresearch
+- Discussions are sometimes recorded and published.
 
 ## 2020-07-13 18:00 UTC - k-Anonymity
 
 Topic: Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression - https://dataprivacylab.org/dataprivacy/projects/kanonymity/paper3.pdf
-
-## 2020-07-06 18:00 UTC - Casual Discussion, Recording Not Available
-
-## 2020-06-29 18:00 UTC - Casual Discussion, Recording Not Available
-
-## 2020-06-22 18:00 UTC - Casual Discussion, Recording Not Available
 
 ## 2020-06-15 18:00 UTC - CoinSwaps Part 1 - Chris Belcher, 2020
 Topic: An in-depth look into the work of Chris Belcher in his recent implementation of Coinswaps.
@@ -23,12 +17,6 @@ Topic: An in-depth look into the work of Chris Belcher in his recent implementat
 - Topic: An Introduction in to Coinswaps
 - https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964 (Belcher, 2020)
 - https://bitcointalk.org/index.php?topic=321228.0 (Maxwell, 2013)
-
-## 2020-06-01 18:00 UTC - Casual Discussion, Recording Not Available
-
-## 2020-05-25 18:00 UTC - Casual Discussion, Recording Not Available
-
-## 2020-05-18 18:00 UTC - Casual Discussion, Recording Not Available
 
 ## 2020-05-04 18:00 UTC - WabiSabi: Confidential CoinJoin Construction - Protocol KVAC
 
