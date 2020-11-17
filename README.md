@@ -5,7 +5,7 @@
 - Where? https://meet.fulmo.org/wasabiresearch
 - Discussions are sometimes recorded and published.
 
-## 2020-12-21 18:00 UTC - "that one privacy girl"
+## 2020-12-21 18:00 UTC - That one privacy girl
 
 - This time we'll have a merged meeting together with the Bitcoin Munich community, featuring Janine Römer, "that one privacy girl" and journalist, talking about Financial Cancel Culture.
 - We'll use the usual Wasabi Research link.
