@@ -5,6 +5,13 @@
 - Where? https://meet.fulmo.org/wasabiresearch
 - Discussions are sometimes recorded and published.
 
+## 2020-12-21 18:00 UTC - "that one privacy girl"
+
+- This time we'll have a merged meeting together with the Bitcoin Munich community, featuring Janine Römer, "that one privacy girl" and journalist, talking about Financial Cancel Culture.
+- We'll use the usual Wasabi Research link.
+- Meetup event: https://www.meetup.com/Bitcoin-Munich/events/273866737/
+- The main event starts at 19:00, but we can start a pre-meeting at 18:00.
+
 ## 2020-07-13 18:00 UTC - k-Anonymity
 
 Topic: Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression - https://dataprivacylab.org/dataprivacy/projects/kanonymity/paper3.pdf
