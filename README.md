@@ -2,7 +2,7 @@
 
 - Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
 - When? Every Monday 18:00 UTC
-- Where? https://meet.fulmo.org/wasabiresearch
+- Where? https://meet.jit.si/wasabiresearch
 - Discussions are sometimes recorded and published.
 
 ## 2020-12-21 18:00 UTC - That one privacy girl
