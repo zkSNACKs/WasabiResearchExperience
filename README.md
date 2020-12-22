@@ -4,10 +4,11 @@
 - When? Every Monday 18:00 UTC
 - Where? https://meet.jit.si/wasabiresearch
 - Discussions are sometimes recorded and published.
+- There are research meetings every monday. The following logs are created only for recorded meetings or meetings that generated some other type of content.
 
-## 2020-12-21 18:00 UTC - That one privacy girl
+## 2020-12-21 18:00 UTC - Financial Cancel Culture
 
-- This time we'll have a merged meeting together with the Bitcoin Munich community, featuring Janine Römer, "that one privacy girl" and journalist, talking about Financial Cancel Culture.
+- A joint meeting with the Bitcoin Munich meetup group, presentation by Janine Römer, "that one privacy girl", who is an investigative journalist.
 - We'll use the usual Wasabi Research link.
 - Meetup event: https://www.meetup.com/Bitcoin-Munich/events/273866737/
 - The main event starts at 19:00, but we can start a pre-meeting at 18:00.
