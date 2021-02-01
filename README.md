@@ -1,4 +1,4 @@
-# Wasabi Research Club
+# Wasabi Research Experience
 
 - Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
 - When? Every Monday 18:00 UTC
