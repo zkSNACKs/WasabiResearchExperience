@@ -6,6 +6,11 @@
 - Discussions are sometimes recorded and published.
 - There are research meetings every monday. The following logs are created only for recorded meetings or meetings that generated some other type of content.
 
+## 2021-03-15 18:00 UTC - CJDNS
+
+- Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
+- Special Guest: Caleb James DeLisle
+
 ## 2020-12-21 18:00 UTC - Financial Cancel Culture
 
 - A joint meeting with the Bitcoin Munich meetup group, presentation by Janine Römer, "that one privacy girl", who is an investigative journalist.
