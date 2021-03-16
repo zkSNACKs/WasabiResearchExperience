@@ -9,6 +9,7 @@
 ## 2021-03-15 18:00 UTC - CJDNS
 
 - Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
+- https://github.com/cjdelisle/cjdns
 - Special Guest: Caleb James DeLisle
 
 ## 2020-12-21 18:00 UTC - Financial Cancel Culture
