@@ -2,7 +2,7 @@
 
 - Recordings: https://www.youtube.com/playlist?list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF
 - When? Every Monday 18:00 UTC
-- Where? https://meet.jit.si/wasabiresearch
+- Where? https://jitsi.anduck.net/WasabiResearchClub
 - Discussions are sometimes recorded and published.
 - There are research meetings every monday. The following logs are created only for recorded meetings or meetings that generated some other type of content.
 
