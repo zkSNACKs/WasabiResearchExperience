@@ -6,6 +6,29 @@
 - Discussions are sometimes recorded and published.
 - There are research meetings every monday. The following logs are created only for recorded meetings or meetings that generated some other type of content.
 
+## 2021-06-21 18:00 UTC - The Austrian School & the Political Economics of Bitcoin
+
+- A joint meeting with the Bitcoin Munich meetup group, presentation by Rahim Taghizadegan.
+- We'll use the usual Wasabi Research link.
+- Meetup event: https://www.meetup.com/Bitcoin-Munich/events/278321861/
+- The main event starts at 20:00, but we can start a pre-meeting at 18:00.
+
+## 2021-04-05 18:00 UTC - Privacy of Sovereign Individuals & Austrian Economics
+
+- Discussion about principals of austrian economics and the future of sovereign individuals.
+- Special Guest: Giacomo Zucco.
+
+## 2021-03-29 18:00 UTC - Integrating WabiSabi
+
+- Discussion about integrating WabiSabi in to other wallets.
+- Guests: BenKaufman, MWietersheim, MrKukks & Dan Gould.
+
+## 2021-03-22 18:00 UTC - Discrete Log Contract Specification
+
+- Discrete Log Contract Specification/DLCs/dlcspecs.
+- Special Guests: Nadav Kohen and Benthecarman from Suredbits.
+- https://github.com/Suredbits
+
 ## 2021-03-15 18:00 UTC - CJDNS
 
 - Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
