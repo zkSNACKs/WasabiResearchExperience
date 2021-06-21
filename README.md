@@ -11,7 +11,6 @@
 - A joint meeting with the Bitcoin Munich meetup group, presentation by Rahim Taghizadegan.
 - We'll use the usual Wasabi Research link.
 - Meetup event: https://www.meetup.com/Bitcoin-Munich/events/278321861/
-- The main event starts at 20:00, but we can start a pre-meeting at 18:00.
 
 ## 2021-04-05 18:00 UTC - Privacy of Sovereign Individuals & Austrian Economics
 
