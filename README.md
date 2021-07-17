@@ -6,6 +6,11 @@
 - Discussions are sometimes recorded and published.
 - There are research meetings every monday. The following logs are created only for recorded meetings or meetings that generated some other type of content.
 
+## 2021-07-26 18:00 UTC - A Survey on Mixing Techniques (Paper)
+
+- Simin Ghesmati from University of Vienna will join us on a discussion to their 2021, not yet fully published research, titled: A Survey on Mixing Techniques
+- Paper: https://eprint.iacr.org/2021/629.pdf
+
 ## 2021-06-21 18:00 UTC - The Austrian School & the Political Economics of Bitcoin
 
 - A joint meeting with the Bitcoin Munich meetup group, presentation by Rahim Taghizadegan.
