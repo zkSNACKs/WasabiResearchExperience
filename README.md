@@ -6,6 +6,8 @@
 - Discussions are sometimes recorded and published.
 - There are research meetings every monday. The following logs are created only for recorded meetings or meetings that generated some other type of content.
 
+## 2021-08-30 18:00 UTC - Privacy Guarantees Of Wasabi Wallet 2.0
+
 ## 2021-07-26 18:00 UTC - A Survey on Mixing Techniques (Paper)
 
 - Simin Ghesmati from University of Vienna will join us on a discussion to their 2021, not yet fully published research, titled: A Survey on Mixing Techniques
